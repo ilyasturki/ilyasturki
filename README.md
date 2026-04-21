@@ -8,7 +8,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/ilyasturki">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%80%A2+based+in+Paris;I+build+terminal+tools+%26+quiet+web+apps;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Nuxt;keyboard-driven%2C+local-first%2C+offline+by+default" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%80%A2+based+in+Paris;I+build+terminal+tools+%26+quiet+web+apps;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Nuxt;keyboard-driven%2C+local-first%2C+offline+by+default" alt="typing" />
   </a>
 </p>
 
@@ -17,8 +17,7 @@
   <a href="mailto:turki.ilyass@gmail.com"><img src="https://img.shields.io/badge/email-turki.ilyass%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/ilyas-turki"><img src="https://img.shields.io/badge/linkedin-ilyas--turki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://x.com/yasso_rs"><img src="https://img.shields.io/badge/x-%40yasso__rs-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
-  <a href="https://ilyasturki.com"><img src="https://img.shields.io/badge/website-ilyasturki.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ilyasturki&style=for-the-badge&color=7C3AED&label=profile+views" alt="views" />
+  <a href="https://ilyasturki.com"><img src="https://img.shields.io/badge/website-ilyasturki.com-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
 </p>
 
 ---
@@ -76,12 +75,12 @@ local-first • offline by default • no telemetry • no ceremony
 ### stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasturki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasturki&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=A78BFA" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasturki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=34D399&icon_color=34D399" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasturki&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=34D399" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyasturki&hide_border=true&theme=tokyonight&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ilyasturki&hide_border=true&theme=tokyonight&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="streak" />
 </p>
 
 <p align="center">
