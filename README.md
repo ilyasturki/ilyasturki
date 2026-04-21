@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://github.com/ilyasturki">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=ilyas%20turki&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=my%20code%20compiles,%20my%20life%20doesn't&descSize=18&descAlignY=60" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,26&height=220&section=header&text=ilyas%20turki&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=my%20code%20compiles,%20my%20life%20doesn't&descSize=18&descAlignY=60" alt="header" />
   </a>
 </p>
 
@@ -111,5 +111,5 @@ local-first • offline by default • no telemetry • no ceremony
 | [**safi**](https://github.com/ilyasturki/safi) | Minimalist, self-hosted markdown editor, mobile-friendly | TypeScript |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,26&height=90&section=footer" alt="footer" />
 </p>
