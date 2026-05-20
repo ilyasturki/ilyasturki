@@ -75,11 +75,6 @@ local-first • offline by default • no telemetry • no ceremony
 ### stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasturki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=34D399&icon_color=34D399" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasturki&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=34D399" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ilyasturki&hide_border=true&theme=tokyonight&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="streak" />
 </p>
 
