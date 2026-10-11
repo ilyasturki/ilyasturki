@@ -31,7 +31,7 @@ ilyas — full-stack dev, keyboard-first, based in paris
 $ cat current.txt
 • shipping  prayer-times  (rust · prayer times + location-aware notifications)
 • shipping  dircmp        (ts   · side-by-side dir/file diff in the terminal)
-• shipping  phasionary    (go   · offline, keyboard-driven project planner)
+• shipping  ordo          (go   · offline, keyboard-driven project planner)
 • shipping  safi          (ts   · self-hosted, mobile-friendly markdown editor)
 
 $ echo $PHILOSOPHY
@@ -102,7 +102,7 @@ local-first • offline by default • no telemetry • no ceremony
 | --- | --- | --- |
 | [**prayer-times**](https://github.com/ilyasturki/prayer-times) | Islamic prayer times + location-aware notifications | Rust |
 | [**dircmp**](https://github.com/ilyasturki/dircmp) | Side-by-side directory and file diff for your terminal | TypeScript |
-| [**phasionary**](https://github.com/ilyasturki/phasionary) | Terminal-first, keyboard-driven, offline project planner | Go |
+| [**ordo**](https://github.com/ilyasturki/ordo) | Terminal-first, keyboard-driven, offline project planner | Go |
 | [**safi**](https://github.com/ilyasturki/safi) | Minimalist, self-hosted markdown editor, mobile-friendly | TypeScript |
 
 <p align="center">
