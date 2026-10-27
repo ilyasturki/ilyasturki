@@ -1,110 +1,48 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://github.com/ilyasturki">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e7681&height=220&section=header&text=ilyas%20turki&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=my%20code%20compiles,%20my%20life%20doesn't&descSize=18&descAlignY=60" alt="header" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" alt="Ilyas Turki: “The exceptional, you have to go and get it.”" />
+</picture>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/ilyasturki">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8b949e&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%80%A2+based+in+Paris;I+build+terminal+tools+%26+quiet+web+apps;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Nuxt;keyboard-driven%2C+local-first%2C+offline+by+default" alt="typing" />
-  </a>
-</p>
+[ilyasturki.com](https://ilyasturki.com) · [x.com/ilyasturki_](https://x.com/ilyasturki_) · [LinkedIn](https://www.linkedin.com/in/ilyas-turki) · [me@ilyasturki.com](mailto:me@ilyasturki.com)
 
-<!-- Socials -->
-<p align="center">
-  <a href="mailto:turki.ilyass@gmail.com"><img src="https://img.shields.io/badge/email-turki.ilyass%40gmail.com-30363d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363d" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/ilyas-turki"><img src="https://img.shields.io/badge/linkedin-ilyas--turki-30363d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=30363d" alt="linkedin" /></a>
-  <a href="https://x.com/yasso_rs"><img src="https://img.shields.io/badge/x-%40yasso__rs-30363d?style=for-the-badge&logo=x&logoColor=white&labelColor=30363d" alt="x" /></a>
-  <a href="https://ilyasturki.com"><img src="https://img.shields.io/badge/website-ilyasturki.com-30363d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=30363d" alt="website" /></a>
-</p>
+I do everything myself, from product to customer support. Pinned below is what's public. The rest lives here.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-doors-dark.svg" />
+  <img src="assets/closed-doors-light.svg" alt="behind closed doors" />
+</picture>
 
-### about
+- **[Aplorio](https://aplorio.fr)** · quotes and invoices for French building trades, dictated on site from the phone
+- **[ilyasturki.com](https://ilyasturki.com)** · my site, in French and English, drawn in pencil and built with Nix
 
-```txt
-$ whoami
-ilyas — full-stack dev, keyboard-first, based in paris
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/machines-dark.svg" />
+  <img src="assets/machines-light.svg" alt="the machines" />
+</picture>
 
-$ cat current.txt
-• shipping  prayer-times  (rust · prayer times + location-aware notifications)
-• shipping  dircmp        (ts   · side-by-side dir/file diff in the terminal)
-• shipping  ordo          (go   · offline, keyboard-driven project planner)
-• shipping  safi          (ts   · self-hosted, mobile-friendly markdown editor)
+**nix-config**<br />
+One flake runs a Ryzen 9 desktop, an XPS 13 and an N100 home server, joined by Tailscale. GNOME and home-manager on top, secrets in sops-nix, Restic backups, Syncthing for what Nix shouldn't own. The home server runs Jellyfin, Immich, Komga and AdGuard.
 
-$ echo $PHILOSOPHY
-local-first • offline by default • no telemetry • no ceremony
-```
+**infra-apps**<br />
+A single NixOS VPS hosts every app I run in production. It was installed with nixos-anywhere, and a Playwright suite checks the live sites every day and after each deploy.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-work-dark.svg" />
+  <img src="assets/how-i-work-light.svg" alt="how I work" />
+</picture>
 
-### stack
+- Agents write most of my code. Two skills took me from 24 to 94 commits a day. One commits each change on its own, the other runs agents in parallel.
+- I live in the terminal, with Neovim, fish, Claude Code and Codex, and I write my prompts there too.
+- Whatever I run is declared in Nix, and self-hosted when I can.
 
-<p align="center">
-  <!-- languages -->
-  <img src="https://img.shields.io/badge/TypeScript-30363d?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-30363d?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-30363d?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-30363d?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-30363d?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <!-- frameworks & runtime -->
-  <img src="https://img.shields.io/badge/Vue.js-30363d?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-30363d?style=for-the-badge&logo=nuxt&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-30363d?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-30363d?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-30363d?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-30363d?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-30363d?style=for-the-badge&logo=vite&logoColor=white" />
-  <br/>
-  <!-- infra & tools -->
-  <img src="https://img.shields.io/badge/Git-30363d?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-30363d?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-30363d?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-30363d?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fish%20Shell-30363d?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journal-dark.svg" />
+  <img src="assets/journal-light.svg" alt="journal" />
+</picture>
 
----
-
-### stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyasturki&hide_border=true&theme=dark&background=0d1117&ring=8b949e&fire=8b949e&currStreakLabel=8b949e" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ilyasturki&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-</p>
-
----
-
-### contribution graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyasturki/ilyasturki/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyasturki/ilyasturki/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ilyasturki/ilyasturki/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### pinned
-
-| project | what it does | stack |
-| --- | --- | --- |
-| [**prayer-times**](https://github.com/ilyasturki/prayer-times) | Islamic prayer times + location-aware notifications | Rust |
-| [**dircmp**](https://github.com/ilyasturki/dircmp) | Side-by-side directory and file diff for your terminal | TypeScript |
-| [**ordo**](https://github.com/ilyasturki/ordo) | Terminal-first, keyboard-driven, offline project planner | Go |
-| [**safi**](https://github.com/ilyasturki/safi) | Minimalist, self-hosted markdown editor, mobile-friendly | TypeScript |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e7681&height=90&section=footer" alt="footer" />
-</p>
+<!-- journal:start -->
+- Oct 26 · [J'ai lâché le cold call pour le cold email](https://ilyasturki.com/fr/ecrits/cold-email/)
+- Oct 25 · [Je suis passé à 100 commits par jour](https://ilyasturki.com/fr/ecrits/cent-commits/)
+- Oct 25 · [J'ai testé tous les launchers Linux, alors j'ai fait le mien](https://ilyasturki.com/fr/ecrits/universe/)
+- Aug 18 · [Pourquoi j'écris mes prompts dans le terminal](https://ilyasturki.com/fr/ecrits/prompts-terminal/)
+<!-- journal:end -->
