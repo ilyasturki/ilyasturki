@@ -44,5 +44,4 @@ A single NixOS VPS hosts every app I run in production. It was installed with ni
 - Oct 26 · [J'ai lâché le cold call pour le cold email](https://ilyasturki.com/fr/ecrits/cold-email/)
 - Oct 25 · [Je suis passé à 100 commits par jour](https://ilyasturki.com/fr/ecrits/cent-commits/)
 - Oct 25 · [J'ai testé tous les launchers Linux, alors j'ai fait le mien](https://ilyasturki.com/fr/ecrits/universe/)
-- Aug 18 · [Pourquoi j'écris mes prompts dans le terminal](https://ilyasturki.com/fr/ecrits/prompts-terminal/)
 <!-- journal:end -->
