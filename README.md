@@ -12,18 +12,18 @@ I do everything myself, from product to customer support. Pinned below is what's
   <img src="assets/closed-doors-light.svg" alt="behind closed doors" />
 </picture>
 
-- **[Aplorio](https://aplorio.fr)** · quotes and invoices for French building trades, dictated on site from the phone
-- **[ilyasturki.com](https://ilyasturki.com)** · my site, in French and English, drawn in pencil and built with Nix
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-aplorio-dark.svg" /><img src="assets/icon-aplorio-light.svg" width="20" height="20" align="top" alt="" /></picture> **[Aplorio](https://aplorio.fr)** · quotes and invoices for French building trades, dictated on site from the phone
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-site-dark.svg" /><img src="assets/icon-site-light.svg" width="20" height="20" align="top" alt="" /></picture> **[ilyasturki.com](https://ilyasturki.com)** · my site, in French and English, drawn in pencil and built with Nix
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/machines-dark.svg" />
   <img src="assets/machines-light.svg" alt="the machines" />
 </picture>
 
-**nix-config**<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-nix-config-dark.svg" /><img src="assets/icon-nix-config-light.svg" width="20" height="20" align="top" alt="" /></picture> **nix-config**<br />
 One flake runs a Ryzen 9 desktop, an XPS 13 and an N100 home server, joined by Tailscale. GNOME and home-manager on top, secrets in sops-nix, Restic backups, Syncthing for what Nix shouldn't own. The home server runs Jellyfin, Immich, Komga and AdGuard.
 
-**infra-apps**<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-infra-apps-dark.svg" /><img src="assets/icon-infra-apps-light.svg" width="20" height="20" align="top" alt="" /></picture> **infra-apps**<br />
 A single NixOS VPS hosts every app I run in production. It was installed with nixos-anywhere, and a Playwright suite checks the live sites every day and after each deploy.
 
 <picture>
