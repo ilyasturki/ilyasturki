@@ -3,7 +3,7 @@
   <img src="assets/header-light.svg" alt="Ilyas Turki: “The exceptional, you have to go and get it.”" />
 </picture>
 
-[ilyasturki.com](https://ilyasturki.com) · [x.com/ilyasturki_](https://x.com/ilyasturki_) · [LinkedIn](https://www.linkedin.com/in/ilyas-turki) · [me@ilyasturki.com](mailto:me@ilyasturki.com)
+[ilyasturki.com](https://ilyasturki.com) · [me@ilyasturki.com](mailto:me@ilyasturki.com)
 
 I do everything myself, from product to customer support. Pinned below is what's public. The rest lives here.
 
